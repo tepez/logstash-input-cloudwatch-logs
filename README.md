@@ -75,7 +75,7 @@ For more information about contributing, see the [CONTRIBUTING](https://github.c
 [ico-version]: https://img.shields.io/gem/v/logstash-input-cloudwatch_logs.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/gem/dt/logstash-input-cloudwatch_logs.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/lukewaite/logstash-input-cloudwatch-logs.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/tepez/logstash-input-cloudwatch-logs.svg?style=flat-square
 
 [link-rubygems]: https://rubygems.org/gems/logstash-input-cloudwatch_logs
-[link-travis]: https://travis-ci.org/lukewaite/logstash-input-cloudwatch_logs
+[link-travis]: https://travis-ci.org/tepez/logstash-input-cloudwatch-logs
